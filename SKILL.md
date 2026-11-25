@@ -1,0 +1,17 @@
+---
+name: kitsune
+description: Autonomous Social & Persona Autopilot combining Voice DNA, Viral Hooks, Storytelling, Dumbify, and Anti-AI Writing with headless Android Instagram execution on MuMu Player 12 (80-113 WPM ADB typing, DM auto-reply, story ops, and anti-accidental-call guardrails).
+---
+
+# Kitsune — Autonomous Social & Persona Autopilot
+
+Pairs **human-sounding content generation** (`Voice DNA`, hooks, storytelling, anti-AI filter) with **safe Android emulator execution** (`MuMu Player 12` + `uiautomator2` + persistent `adb` pipe).
+
+---
+
+## Core Workflow
+
+1. **Content & Persona Layer** ([`references/content-and-voice-dna.md`](references/content-and-voice-dna.md)):
+   - Hook in 1–2s (Topic Clarity + On-Target Curiosity) → Storytelling (tension, turn, open loop) → Dumbify (6th–8th grade) → Anti-AI + Voice DNA final pass.
+2. **Android Execution Layer** ([`references/mumu-android-ops.md`](references/mumu-android-ops.md)):
+   - Headless VM control via `MuMuManager.exe`, persistent `adb shell` pipe for 80–113 WPM natural typing, DM inbox triage, Story posting/cleanup, and strict UI bounds guardrails against accidental audio/video calls.
