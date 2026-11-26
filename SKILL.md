@@ -1,5 +1,5 @@
 ---
-name: kitsune
+name: KITSUNE
 description: Autonomous Social & Persona Autopilot combining Voice DNA, Viral Hooks, Storytelling, Dumbify, and Anti-AI Writing with headless Android Instagram execution on MuMu Player 12 (80-113 WPM ADB typing, DM auto-reply, story ops, and anti-accidental-call guardrails).
 ---
 

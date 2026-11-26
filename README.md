@@ -1,4 +1,4 @@
-# kitsune — Social Persona Autopilot & MuMu Android Ops
+# KITSUNE — Social Persona Autopilot & MuMu Android Ops
 
 AI Agent Skill for **Antigravity**, **Claude Code**, and **OpenAI Codex**. Combines human-sounding Voice DNA content creation with headless Android Instagram execution on MuMu Player 12 (`uiautomator2` + persistent `adb` typing + anti-accidental-call guardrails).
 
@@ -10,13 +10,13 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/kitsune` | `.agents/skills/kitsune` |
-| **Claude Code** | `~/.claude/skills/kitsune` | `.claude/skills/kitsune` |
-| **OpenAI Codex** | `~/.codex/skills/kitsune` | `.agents/skills/kitsune` |
+| **Antigravity** | `~/.gemini/config/skills/KITSUNE` | `.agents/skills/KITSUNE` |
+| **Claude Code** | `~/.claude/skills/KITSUNE` | `.claude/skills/KITSUNE` |
+| **OpenAI Codex** | `~/.codex/skills/KITSUNE` | `.agents/skills/KITSUNE` |
 
 ```bash
 # Example (Antigravity / Claude Code / Codex — pick your path):
-git clone https://github.com/triwahyu45/kitsune.git ~/.claude/skills/kitsune
+git clone https://github.com/triwahyu45/KITSUNE.git ~/.claude/skills/KITSUNE
 ```
 
 ---
