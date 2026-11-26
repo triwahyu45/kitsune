@@ -15,3 +15,10 @@ Pairs **human-sounding content generation** (`Voice DNA`, hooks, storytelling, a
    - Hook in 1–2s (Topic Clarity + On-Target Curiosity) → Storytelling (tension, turn, open loop) → Dumbify (6th–8th grade) → Anti-AI + Voice DNA final pass.
 2. **Android Execution Layer** ([`references/mumu-android-ops.md`](references/mumu-android-ops.md)):
    - Headless VM control via `MuMuManager.exe`, persistent `adb shell` pipe for 80–113 WPM natural typing, DM inbox triage, Story posting/cleanup, and strict UI bounds guardrails against accidental audio/video calls.
+---
+
+## Mandatory Self-Audit & Revise-Before-Delivery Gate
+
+Before delivering copy or completing emulator actions:
+1. Audit every draft against `Voice DNA` and the 6 AI-slop tells; read aloud to verify natural Indonesian/English cadence.
+2. After MuMu Android actions, inspect `d.screenshot()` to confirm the exact target screen/message state and zero accidental calls.
