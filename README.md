@@ -25,7 +25,7 @@ git clone https://github.com/triwahyu45/KITSUNE.git ~/.claude/skills/KITSUNE
 
 - **Runtime / Tools**: **MuMu Player 12** (Windows), **ADB** (`adb.exe`), **Python 3.10+** with `uiautomator2`
 - **MCP Servers**: None required (executes via local ADB / Python `uiautomator2`)
-- **Related Skills**: Optional pairing with [`scribe`](https://github.com/triwahyu45/scribe) for long-form copywriting
+- **Related Skills**: Optional pairing with [`scribe`](https://github.com/triwahyu45/SCRIBE) for long-form copywriting
 - **API Keys / Secrets**: None
 
 ---
