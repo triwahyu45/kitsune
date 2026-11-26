@@ -35,6 +35,7 @@ git clone https://github.com/triwahyu45/KITSUNE.git ~/.claude/skills/KITSUNE
 - `SKILL.md` — Dual-layer workflow & screenshot verification gate
 - `references/content-and-voice-dna.md` — Hooks, storytelling, & Voice DNA filter
 - `references/mumu-android-ops.md` — `MuMuManager.exe`, 80-113 WPM ADB pipe, & UI bounds safety
+- `references/ig-engagement-and-ops.md` — Profile `/100` audit, Story-to-DM funnels, outreach DMs, & comment triage
 
 ## When to Trigger / Search Keywords
 

@@ -17,6 +17,10 @@ Pairs **human-sounding content generation** (`Voice DNA`, hooks, storytelling, a
    - Headless VM control via `MuMuManager.exe`, persistent `adb shell` pipe for 80–113 WPM natural typing, DM inbox triage, Story posting/cleanup, and strict UI bounds guardrails against accidental audio/video calls.
 ---
 
+3. **Instagram Growth & Funnel Ops** ([`references/ig-engagement-and-ops.md`](references/ig-engagement-and-ops.md)):
+   - 12-part profile audit (`/100`), Story-to-DM sticker funnels, outreach/collab DM arcs, and human comment/reply triage.
+---
+
 ## Mandatory Self-Audit & Revise-Before-Delivery Gate
 
 Before delivering copy or completing emulator actions:
