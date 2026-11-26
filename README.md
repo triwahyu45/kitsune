@@ -10,7 +10,7 @@ Clone this skill into your agent's global or project skills directory:
 
 | Agent | Global Install Path | Project-Local Path |
 | :--- | :--- | :--- |
-| **Antigravity** | `~/.gemini/config/skills/KITSUNE` | `.agents/skills/KITSUNE` |
+| **Antigravity** | Global Antigravity skills dir | `.agents/skills/KITSUNE` |
 | **Claude Code** | `~/.claude/skills/KITSUNE` | `.claude/skills/KITSUNE` |
 | **OpenAI Codex** | `~/.codex/skills/KITSUNE` | `.agents/skills/KITSUNE` |
 
