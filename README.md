@@ -25,15 +25,14 @@ git clone https://github.com/triwahyu45/KITSUNE.git ~/.claude/skills/KITSUNE
 
 - **Runtime / Tools**: **MuMu Player 12** (Windows), **ADB** (`adb.exe`), **Python 3.10+** with `uiautomator2`
 - **MCP Servers**: None required (executes via local ADB / Python `uiautomator2`)
-- **Related Skills**: Optional pairing with [`scribe`](https://github.com/triwahyu45/SCRIBE) for long-form copywriting
+- **Related Skills**: Pairs with [`SCRIBE`](https://github.com/triwahyu45/SCRIBE) for Voice DNA, hooks, storytelling, and anti-AI copywriting
 - **API Keys / Secrets**: None
 
 ---
 
 ## Included Files
 
-- `SKILL.md` — Dual-layer workflow & screenshot verification gate
-- `references/content-and-voice-dna.md` — Hooks, storytelling, & Voice DNA filter
+- `SKILL.md` — Workflow, `SCRIBE` delegation, & screenshot verification gate
 - `references/mumu-android-ops.md` — `MuMuManager.exe`, 80-113 WPM ADB pipe, & UI bounds safety
 - `references/ig-engagement-and-ops.md` — Profile `/100` audit, Story-to-DM funnels, outreach DMs, & comment triage
 
